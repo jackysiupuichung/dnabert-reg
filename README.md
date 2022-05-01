@@ -9,7 +9,9 @@ In this package, we provides resources including: colab notebooks containing sou
 ##  Setup
 We finetuned the DNABERT-reg pre-trained model with Tesla P100-PCIE-16GB GPU with 26GB of memory. Please adjust batch size according to your specification.
 
-The colab notebooks can be inspected from gitlab, and to run the analysis please attach the shared google drive repository below using the "add shortcut to drive" option 
+The colab notebooks can be inspected from gitlab, inputs and intermediate data can be inspected from google drive link below under inputs. 
+
+To run the analysis please attach the shared google drive repository below using the "add shortcut to drive" option
 
 https://drive.google.com/drive/folders/1inxu93Et8VA7iyCsTnQeiH2q5TTijLtM?usp=sharing
 
